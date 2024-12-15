@@ -1,0 +1,38 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div {
+    text-align:  center;
+    margin: 10px auto;
+    width: 130px;
+    height: 40px;
+  }
+.div1{
+    
+border: solid  blue;
+
+
+}
+.div2{
+
+    outline: solid green ;
+    
+   
+
+}
+.div3{
+    border:solid blue ;
+    outline:dashed red;
+
+}
+.div4{
+    border:solid green;
+    outline:dashed orange ;
+outline-offset: 10px;
+
+}
+
+
