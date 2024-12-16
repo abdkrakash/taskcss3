@@ -1,0 +1,49 @@
+* {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+div {
+  text-align: left;
+  margin: 10px auto;
+  width: 150px;
+  height: 100px;
+  color: white;
+  border-radius: 8px 8px 8px 8px;
+  padding: 5px;
+}
+
+.div1 {
+  background-color: blue;
+  top: 5%;
+  left: 10%;
+  position: absolute;
+  z-index: 1;
+}
+
+.div2 {
+  background-color: red;
+  top: 7%;
+  left: 12%;
+  position: absolute;
+  z-index: 2;
+}
+
+.div3 {
+  background-color: yellowgreen;
+  top: 9%;
+  left: 14%;
+  position: absolute;
+  z-index: 3;
+}
+
+.div4 {
+  margin: 10px auto;
+  background-color: green;
+  top: 11%;
+  left: 16%;
+  position: absolute;
+  z-index: 4;
+}

@@ -1,0 +1,38 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    text-align: left;
+    width: 150px;
+    height: 100px;
+}
+
+.div1 {
+    background-color: blue;
+    left: 0%;
+    position: absolute;
+}
+
+.div2 {
+    background-color: red;
+    right: 0;
+    position: absolute;
+}
+
+.div3 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: green;
+}
+
+.div4 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: yellowgreen;
+}
