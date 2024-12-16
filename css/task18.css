@@ -1,0 +1,38 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div
+{
+    width: 250px auto;
+    padding: 20px;
+}
+.img1{
+    top: 5%;
+  left: 10%;
+  position: relative;
+  z-index: 4;
+}
+.img2{
+    top: 7%;
+  left: 12%;
+  position: absolute;
+  z-index: 3;
+}
+.img3{
+    top: 9%;
+  left: 14%;
+  position: absolute;
+
+  z-index: 2;
+}
+.img4{
+    top: 11%;
+  left: 17%;
+  position: absolute;
+  z-index: 1;
+}
+    
+

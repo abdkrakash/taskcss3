@@ -1,0 +1,19 @@
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar {
+    position:sticky;
+    top: 1px;
+    overflow: hidden;
+    background-color:indigo;
+  }
+   a {
+    float: left;
+    color:cornsilk;
+    text-align: center;
+    padding: 15px;
+    text-decoration:dashed;
+}

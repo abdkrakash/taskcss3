@@ -1,10 +1,9 @@
 * {
   border: 0;
   padding: 0;
-  margin: 0;
+  margin:0;
   box-sizing: border-box;
 }
-
 div {
   text-align: center;
   margin: 10px auto;
@@ -12,6 +11,7 @@ div {
   width: 150px;
   height: 150px;
 }
+
 
 .d1 {
   opacity: 1;
