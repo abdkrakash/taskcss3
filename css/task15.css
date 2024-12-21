@@ -19,7 +19,7 @@
     
 }
 div{
-    /* position: relative; */
+    position: relative;
     padding-top:65px;
     padding-bottom: 65px;
         width:calc(25% - 20px);

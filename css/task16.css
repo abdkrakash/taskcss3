@@ -4,19 +4,17 @@
     margin: 0;
     box-sizing: border-box;
 }
-
-
-
-
 img{
 
     position: fixed;
     width: 120px;
     padding: 15px;
+   
 
 
 
 }
 .div2{
     padding: 10px;
+    margin-left: 100px;
 }
